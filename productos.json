@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Collar rígido con orificio traqueal",
+        "description": "extricacion",
+        "code": "PL03",
+        "price": 55400,
+        "stock": 111111,
+        "category": "prehospitalario",
+        "status": true,
+        "id": 5
+    },
+    {
+        "title": "Tabla rígida",
+        "description": "extricacion",
+        "code": "PL07",
+        "price": 456,
+        "status": true,
+        "stock": 73,
+        "category": "prehospitalario",
+        "id": 6
+    },
+    {
+        "title": "Torniquete",
+        "description": "controlSangrado",
+        "code": "JM08",
+        "price": 111,
+        "status": true,
+        "stock": 51,
+        "category": "prehospitalario",
+        "id": 7
+    },
+    {
+        "title": "colchonvacio",
+        "description": "extricacion",
+        "code": "PL08",
+        "price": 2400,
+        "stock": 28,
+        "category": "prehospitalario",
+        "status": true,
+        "id": 8
+    },
+    {
+        "title": "ferula",
+        "description": "extricacion",
+        "code": "PL09",
+        "price": 24,
+        "stock": 666,
+        "category": "prehospitalario",
+        "status": true,
+        "id": 10
+    }
+]
